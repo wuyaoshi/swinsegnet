@@ -1,0 +1,6 @@
+model/__pycache__/
+model/checkpoints/
+Kasir-SEG/
+checkpoints/
+model/results/.ipynb_checkpoints/
+model/results/
