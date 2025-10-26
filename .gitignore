@@ -4,3 +4,5 @@ Kasir-SEG/
 checkpoints/
 model/results/.ipynb_checkpoints/
 model/results/
+.ipynb_checkpoints/
+.idea/
