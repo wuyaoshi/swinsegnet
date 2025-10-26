@@ -4,6 +4,8 @@ from test import run_inference   # 导入你在 test.py 里新增的函数
 
 app = FastAPI()
 
+
+
 UPLOAD_DIR = "uploads"
 RESULT_DIR = "results"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
